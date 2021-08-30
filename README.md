@@ -1,0 +1,2 @@
+# crawler_python-BerkeleyDB_base
+python 嵌入式数据库BerkeleyDB基础使用
